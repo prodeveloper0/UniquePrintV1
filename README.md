@@ -43,9 +43,6 @@ And, Run `UniquePrintV1.py`
 $ python3 UniquePrintV1.py
 ```
 
-Sample images per epoch.
-
-![Sample Images per Epoch](Resources/animated_outputs.gif)
 
 ## Testing
 Change `opt` variable to `demo` in `UniquePrintV1.py` file after training.
@@ -66,3 +63,11 @@ And, Run `UniquePrintV1.py`
 ```Bash
 $ python3 UniquePrintV1.py
 ```
+
+# Results
+Trained 2,000 epoch with NIST Special Database 4.
+
+![Sample Images per Epoch](Resources/animated_outputs.gif)
+![Sample Images per Type](UniquePrintV1_FingerNet/Samples/01900.png)
+
+Output images per epoch (Left) and final output images (Right)
