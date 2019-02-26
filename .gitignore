@@ -1,0 +1,15 @@
+# Ignore PyCharm .idea
+/.idea/
+
+# Ignore __pycache__
+__pycache__/
+
+# Ignore compiled python files (*.pyc, *.pyo)
+*.pyc
+*.pyo
+
+# Ignore NIST Special Database 4 images
+/Resources/nist-sd4/*
+
+# Excepts for zip files
+!/Resources/nist-sd4/*.zip
