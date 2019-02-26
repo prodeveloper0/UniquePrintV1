@@ -123,7 +123,7 @@ class CGAN(object):
                     os.makedirs(sample_dir)
 
                 fig = Visualize.sample2fig(samples, count_per_type, self.y_dim)
-                Visualize.savefig(fig, os.path.join(sample_dir, '{}.png'.format(numfmt(ep, ep))))
+                Visualize.savefig(fig, os.path.join(sample_dir, '{}.png'.format(numfmt(epoch, ep))))
 
                 # Save checkpoint
                 self.saver.save(self.sess, os.path.join(weight_dir, 'weights.ckpt'),
