@@ -1,5 +1,5 @@
 # UniquePrint v1
-Synthesizing fingerprint image from pattern type analysis features using conditional GAN with FingerNet.
+This is an implemntation of UniquePrintV1. UniquePrintV1 can sythesize the fingerprint from pattern type analysis features (e.g. left, whorl, right, tent arch, arch) using conditional GAN.
 ![Synthesized Fingerprint Images](Resources/final_outputs.png)
 
 # Paper
