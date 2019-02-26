@@ -43,6 +43,10 @@ And, Run `UniquePrintV1.py`
 $ python3 UniquePrintV1.py
 ```
 
+Sample images per epoch.
+
+![Sample Images per Epoch](Resources/animated_outputs.gif)
+
 ## Testing
 Change `opt` variable to `demo` in `UniquePrintV1.py` file after training.
 ```Python
