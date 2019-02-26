@@ -1,5 +1,6 @@
 # UniquePrint v1
 Synthesizing fingerprint image from pattern type analysis features using conditional GAN with FingerNet.
+![Synthesized Fingerprint Images](Resources/final_outputs.png)
 
 # Paper
 Synthesizing Fingerprint from Pattern Type Analysis Features using cGAN
