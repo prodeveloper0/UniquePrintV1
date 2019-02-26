@@ -48,7 +48,7 @@ Change `opt` variable to `demo` in `UniquePrintV1.py` file after training.
 os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 database_path = r'Resources/nist-sd4'
 name = 'UniquePrintV1_FingerNet'
-opt = 'demo' # Chage this to 'demo' to demonstrate UniquePrintV1
+opt = 'demo' # Change this to 'demo' to demonstrate UniquePrintV1
 checkpoint_epoch = None
 batch_size = 150
 epoch = 2000
