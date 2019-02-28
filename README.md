@@ -71,3 +71,6 @@ Trained 2,000 epoch with NIST Special Database 4.
 ![Sample Images per Type](UniquePrintV1_FingerNet/Samples/01900.png)
 
 Output images per epoch (Left) and final output images (Right)
+
+# Thanks
+I referenced some codes from https://github.com/YadiraF/GAN
