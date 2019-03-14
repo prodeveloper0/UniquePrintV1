@@ -5,7 +5,7 @@ This is an implemntation of UniquePrintV1. UniquePrintV1 can synthesize the fing
 
 # Paper
 Synthesizing Fingerprint from Pattern Type Analysis Features using cGAN
-</br>[Samuel Lee](https://github.com/prodeveloper0), [Jae-Gab Choi](https://github.com/chlworkq), Jon-Ho Park and Gye-Young Kim</br>
+</br>[Samuel Lee](https://github.com/prodeveloper0), [Jae-Gab Choi](https://github.com/chlworkq), Jin-Ho Park and Gye-Young Kim</br>
 School of Software, Soongsil University
 </br>World IT Congress 2019 Jeju ([WITC 2019](http://www.worlditcongress.org/2019/index.php))
 
