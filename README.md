@@ -4,7 +4,7 @@ This is an implemntation of UniquePrintV1. UniquePrintV1 can synthesize the fing
 ![Synthesized Fingerprint Images](Resources/final_outputs.png)
 
 # Paper
-Synthesizing Fingerprint from Pattern Type Analysis Features using cGAN
+[Synthesizing Fingerprint from Pattern Type Analysis Features using cGAN](https://github.com/prodeveloper0/UniquePrintV1/blob/master/Resources/WITC-26.pdf)
 </br>[Samuel Lee](https://github.com/prodeveloper0), [Jae-Gab Choi](https://github.com/chlworkq), Jin-Ho Park and Gye-Young Kim</br>
 School of Software, Soongsil University
 </br>World IT Congress 2019 Jeju ([WITC 2019](http://www.worlditcongress.org/2019/index.php))
